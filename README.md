@@ -3,5 +3,5 @@
 
 ![bitcoin](https://github.com/cryptonobo/Some-LOGO-/blob/master/Bitcoin.png)
 
-![bitcoin2] (https://github.com/cryptonobo/Some-LOGO-/blob/master/preview.png)
+![bitcoin2](https://github.com/cryptonobo/Some-LOGO-/blob/master/preview.png)
 
